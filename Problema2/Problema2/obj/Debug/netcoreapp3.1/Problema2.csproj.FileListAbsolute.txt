@@ -1,0 +1,12 @@
+C:\Users\teodoro.soares\Pictures\CSharp\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.AssemblyInfoInputs.cache
+C:\Users\teodoro.soares\Pictures\CSharp\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.AssemblyInfo.cs
+C:\Users\teodoro.soares\Pictures\CSharp\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.csproj.CoreCompileInputs.cache
+C:\Users\teodoro.soares\Pictures\CSharp\Problema2\Problema2\bin\Debug\netcoreapp3.1\Problema2.exe
+C:\Users\teodoro.soares\Pictures\CSharp\Problema2\Problema2\bin\Debug\netcoreapp3.1\Problema2.deps.json
+C:\Users\teodoro.soares\Pictures\CSharp\Problema2\Problema2\bin\Debug\netcoreapp3.1\Problema2.runtimeconfig.json
+C:\Users\teodoro.soares\Pictures\CSharp\Problema2\Problema2\bin\Debug\netcoreapp3.1\Problema2.runtimeconfig.dev.json
+C:\Users\teodoro.soares\Pictures\CSharp\Problema2\Problema2\bin\Debug\netcoreapp3.1\Problema2.dll
+C:\Users\teodoro.soares\Pictures\CSharp\Problema2\Problema2\bin\Debug\netcoreapp3.1\Problema2.pdb
+C:\Users\teodoro.soares\Pictures\CSharp\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.dll
+C:\Users\teodoro.soares\Pictures\CSharp\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.pdb
+C:\Users\teodoro.soares\Pictures\CSharp\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.genruntimeconfig.cache

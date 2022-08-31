@@ -1,0 +1,13 @@
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\bin\Debug\netcoreapp3.1\Problema4.exe
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\bin\Debug\netcoreapp3.1\Problema4.deps.json
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\bin\Debug\netcoreapp3.1\Problema4.runtimeconfig.json
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\bin\Debug\netcoreapp3.1\Problema4.runtimeconfig.dev.json
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\bin\Debug\netcoreapp3.1\Problema4.dll
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\bin\Debug\netcoreapp3.1\Problema4.pdb
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\obj\Debug\netcoreapp3.1\Problema4.csprojAssemblyReference.cache
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\obj\Debug\netcoreapp3.1\Problema4.AssemblyInfoInputs.cache
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\obj\Debug\netcoreapp3.1\Problema4.AssemblyInfo.cs
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\obj\Debug\netcoreapp3.1\Problema4.csproj.CoreCompileInputs.cache
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\obj\Debug\netcoreapp3.1\Problema4.dll
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\obj\Debug\netcoreapp3.1\Problema4.pdb
+C:\Users\teodoro.soares\Pictures\CSharp\Problema4\Problema4\obj\Debug\netcoreapp3.1\Problema4.genruntimeconfig.cache
